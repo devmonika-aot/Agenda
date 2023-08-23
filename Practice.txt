@@ -41,4 +41,7 @@
         d) Centralized Configuration
         e) Distributed Tracing
         f) Security and Authentication
+9) React
+10 ) Project on React and SpringBoot
+11) AWS
         
