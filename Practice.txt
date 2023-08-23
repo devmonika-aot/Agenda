@@ -10,6 +10,7 @@
         f) Cacheing
         g) Pagenation for efficient way of searching and filtering
         h ) File upload and access //https://www.bezkoder.com/spring-boot-upload-file-database/
+3.1) Migrate a springboot application from http to https
 4) Unit Testing and Integration Testing using mockito
 5) Kafka with below features:
       a) Publish-Subscribe Messaging:
